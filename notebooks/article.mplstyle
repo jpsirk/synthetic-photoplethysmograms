@@ -1,0 +1,7 @@
+font.serif: Arial
+mathtext.default: regular
+font.size: 9
+axes.titlesize: 9
+axes.labelsize: 9
+figure.titlesize: 9
+axes.unicode_minus: False
